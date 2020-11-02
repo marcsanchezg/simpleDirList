@@ -14,6 +14,6 @@
 
  <?php
  
- 
+ echo "Hello world";
  
  ?>
